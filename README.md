@@ -52,7 +52,7 @@ Other appetizers to go:
 
 I am Gia Khang Ho, you can call me Khang. I was born and raised in Ho Chi Minh City, one of the largest tourist cities in Vietnam.
 
-![FEnder Telecaster](images/Khang.jpg)
+![FEnder Telecaster](images/khang.jpg)
 
 Therefore, the culinary scene is very diverse, representing various regions across the country. I have many choices, among which I recommend 3 main dishes that are very suitable for everyone to explore Vietnamese cuisine.
 
